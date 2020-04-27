@@ -1,0 +1,20 @@
+.buttons {
+  padding: 12px;
+  color: blueviolet;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  font-weight: bold;
+}
+.box {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
